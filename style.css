@@ -168,7 +168,7 @@ p{
         font-size: 8px;
     }
 
-    .menu {
+    .list-without-bullet-point {
         background-color: #283e4a;
         color: white;
         font-size: 30px;
@@ -187,5 +187,7 @@ p{
         margin-left: 198px;
     }
 }
+
+
 
 
