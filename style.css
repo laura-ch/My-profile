@@ -185,9 +185,25 @@ p{
         height: 44px;
         z-index: 100;
         margin-left: 198px;
+        display:inline;
     }
 }
 
 
 
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
 
