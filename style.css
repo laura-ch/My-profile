@@ -17,6 +17,7 @@ body{
 
 }
 
+
 .divprofile{
     background-color: rgba(230,230,230,80%);
     padding: 60px;
@@ -47,7 +48,6 @@ body{
 	color:grey;
 	letter-spacing: 20px;
 }
-
 
 
 
@@ -115,7 +115,7 @@ p{
     text-align: center;
     color: #152a5b;
     font-family: 'Niramit', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
