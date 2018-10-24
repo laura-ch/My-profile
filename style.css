@@ -138,9 +138,9 @@ p{
     margin-left: 400px;
 }
 
-.menuresponsive{
-  display:inline;
-}
+.list-without-bullet-point li{
+    display:inline;
+}  
 
 @media(max-width:1000px){
     body{
