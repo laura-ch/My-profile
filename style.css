@@ -91,12 +91,13 @@ a:hover{
 
 
 h1{
-	color: #112357;
+    color: #112357;
     font-family: 'Niramit', sans-serif;
     font-weight: 100px;
-    letter-spacing: 5px;
     font-size: 60px;
     text-align: center;
+    margin-top: 80px;
+    margin-bottom: 6px;
 }
 
 h2{
@@ -121,11 +122,12 @@ p{
 /*prit de Linkedin/barre fixe collé au top*/
 
 .menu{
+    padding-block-end: 80px;
     background-color: #283e4a;
     color: white;
-    font-size: 15px;
+    font-size: 30px;
     text-align: center;
-    width: 700px; 
+    width: 700px;
     position: fixed;
     margin-top: 0px;
     border-top: none;
