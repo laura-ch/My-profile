@@ -1,5 +1,5 @@
 body{
-    color: #9b0f0f;
+    color: #132274;
     background-image: url(images/backgroundnature.jpg);
     background-position: fixed;
     background-repeat: no-repeat;
@@ -11,10 +11,9 @@ body{
     font-weight: lighter;
     font-size: 15px;
     text-align: center;
-    margin: 200px;
+    margin: 400px;
     margin-top: 0px;
     margin-bottom: 0px;
-
 }
 
 
@@ -122,23 +121,22 @@ p{
 /*prit de Linkedin/barre fixe collé au top*/
 
 .menu{
-	background-color: #283e4a;
+    background-color: #283e4a;
     color: white;
     font-size: 30px;
     text-align: center;
     padding: 100px;
-    width: 1589px;
+    width: 1166px;
     position: fixed;
     margin-top: 0px;
-    padding: 20px;
+    padding: 30px;
     border-top: none;
     position: fixed;
     top: 0;
     left: 0;
     height: 44px;
-    z-index: 100;
-    margin-left: 200px;
- }
+    margin-left: 400px;
+}
 
 
 
