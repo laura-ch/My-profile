@@ -48,6 +48,13 @@ body{
 	letter-spacing: 20px;
 }
 
+
+@media(max-width: 480px){
+	.card{
+		margin
+	}
+}
+
 #socialmedia i:hover{
 	color:black;
 }
@@ -136,3 +143,6 @@ p{
     z-index: 100;
     margin-left: 200px;
  }
+
+
+
