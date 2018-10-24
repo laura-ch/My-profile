@@ -13,10 +13,6 @@ body{
     text-align: center;
     width: 700px;
     margin: auto;
-/*    margin: 400px;*/
-
-/*    margin-top: 0px;
-    margin-bottom: 0px;*/
 }
 
 
@@ -34,7 +30,6 @@ body{
 .container{
 	width:700px;
     margin: auto;
-/*	margin:40px auto;*/
 }
 
 
@@ -130,88 +125,17 @@ p{
     color: white;
     font-size: 15px;
     text-align: center;
-    /* padding: 100px;*/
     width: 700px; 
     position: fixed;
     margin-top: 0px;
-   /* padding: 30px;*/
     border-top: none;
-    /*top: 0;
-    left: 0;*/
     height: 40px;
     margin: auto;
-    /*margin-left: 400px;*/
 }
 
 .list-without-bullet-point li{
     display:inline;
 }  
-
-/*@media(max-width:1000px){
-    body{
-        color: #9b0f0f;
-       	background-image: url(images/backgroundnature.jpg);
-        background-position: fixed;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        background-position: center;
-        background-size: cover;
-        font-family: 'Lato', sans-serif;
-        font-weight: lighter;
-        font-size: 9px;
-        text-align: center;
-        margin: 100px;
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
-
-    p{
-        text-align: center;
-        color: #152a5b;
-        font-family: 'Niramit', sans-serif;
-        font-size: 8px;
-    }
-
-    .list-without-bullet-point {
-        background-color: #283e4a;
-        color: white;
-        font-size: 30px;
-        text-align: center;
-        padding: 100px;
-        width: 640px;
-        position: fixed;
-        margin-top: 0px;
-        padding: 25px;
-        padding-bottom: 60px;
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 44px;
-        z-index: 100;
-        margin-left: 198px;
-        display:inline;
-    }
-
-    .menu {
-        background-color: #283e4a;
-        color: white;
-        font-size: 10px;
-        text-align: center;
-        padding: 100px;
-        width: 826px;
-        position: fixed;
-        margin-top: 0px;
-        padding: 30px;
-        border-top: none;
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 40px;
-        margin-left: 400px;
-    }
-}
-*/
 
 
 @media (max-width: 960px) {
@@ -234,3 +158,4 @@ p{
   }
 }
 
+/*media avec container et body */
