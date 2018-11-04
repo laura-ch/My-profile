@@ -17,7 +17,7 @@
 
 
     .divprofile{
-        background-color: rgba(230,230,230,80%);
+        background-color: rgba(230,230,230,93%);
         padding: 60px;
         margin: auto;
         margin-top: 0px
@@ -34,7 +34,7 @@
 
 
     .card{
-    	background-color: rgba(230,230,230,80%); 
+    	background-color: rgba(230,230,230,93%); 
     	border-radius: rgba(255,255,255,50%);
     	border-radius:10px;
     	margin:30px 0px;
@@ -52,6 +52,10 @@
 
     #socialmedia i:hover{
     	color:black;
+    }
+
+    #presentation{
+        text-align: justify;
     }
 
     #introduction p{
